@@ -1,0 +1,36 @@
+What is OOP? list of OOP concepts.
+
+
+Ans:-
+
+OOP stands for Object-Oriented Programming. It is a programming paradigm that is based
+on the concept of objects. C++ is an object-oriented programming language that supports 
+the creation of objects and the use of object-oriented programming concepts.
+
+
+    In C++, an object is an instance of a class, which is a template or blueprint for creating 
+objects. A class defines the properties and behaviors of objects, such as the data that an 
+object contains and the functions that an object can perform.
+
+
+    Object-oriented programming in C++ provides a number of benefits, including
+encapsulation, inheritance, and polymorphism. Encapsulation is the process of hiding the 
+implementation details of an object from other parts of the program. Inheritance allows a
+new class to be based on an existing class, inheriting its properties and behaviors. 
+Polymorphism allows objects to be used in different ways, depending on the context in
+which they are used.
+
+Overall, object-oriented programming in C++ allows for the creation of modular, reusable,
+and maintainable code that can be easily extended and modified.
+
+There are some basic concepts that act as the building blocks of OOPs i.e.
+
+    1.Class
+    2.Objects
+    3.Encapsulation
+    4.Abstraction
+    5.Polymorphism
+    6.Inheritance
+    7.Dynamic Binding
+    8.Message Passing
+    
